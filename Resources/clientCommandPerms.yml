@@ -8,7 +8,7 @@
     - hardquit
     - svbind
     - bind
-    - exec # macro momen t
+    - exec # macro moment
     - cls
     - vram
     - monitor
